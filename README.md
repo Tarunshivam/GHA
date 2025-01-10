@@ -1,5 +1,6 @@
 # Github Actions course
 
+
 DevOps became very imprtant for organiztions willing to automate and modernaze their workloads. Thanks to its capabilities, it is never been easier create a pipelin that can do all the required staps to build 'almost' any kind of application and deploy 'almost' to any environment. All of this with a click of a button.
 
 Not only that, using DevOps features makes it possible to secure the pipelines when managing secrets or when connecting to the target production environment. That become today what is known as DevSecOps.
@@ -31,18 +32,19 @@ Who this course is for:
 - DevOps beginners looking for step by step guide to create their first successful CI/CD pipelines
 - Ops experts looking for to use Github to automate the deployment of their infrastructure
 
+
 Samples for Github Actions DevOps pipelines and workflows.
 
-[![010-blank-workflow](https://github.com/HoussemDellai/github-actions-course/actions/workflows/010-blank-workflow.yml/badge.svg)](https://github.com/HoussemDellai/github-actions-course/actions/workflows/010-blank-workflow.yml)
+1.[![010-blank-workflow](https://github.com/HoussemDellai/github-actions-course/actions/workflows/010-blank-workflow.yml/badge.svg)](https://github.com/HoussemDellai/github-actions-course/actions/workflows/010-blank-workflow.yml)
 
-[![020-manual-workflow](https://github.com/HoussemDellai/github-actions-course/actions/workflows/020-manual-input-workflow.yml/badge.svg)](https://github.com/HoussemDellai/github-actions-course/actions/workflows/020-manual-input-workflow.yml)
+2.[![020-manual-workflow](https://github.com/HoussemDellai/github-actions-course/actions/workflows/020-manual-input-workflow.yml/badge.svg)](https://github.com/HoussemDellai/github-actions-course/actions/workflows/020-manual-input-workflow.yml)
 
-[![030-dotnet-workflow](https://github.com/HoussemDellai/github-actions-course/actions/workflows/030-dotnet-workflow.yml/badge.svg)](https://github.com/HoussemDellai/github-actions-course/actions/workflows/030-dotnet-workflow.yml)
+3.[![030-dotnet-workflow](https://github.com/HoussemDellai/github-actions-course/actions/workflows/030-dotnet-workflow.yml/badge.svg)](https://github.com/HoussemDellai/github-actions-course/actions/workflows/030-dotnet-workflow.yml)
 
-[![031-build-deploy-webapp-to-azure](https://github.com/HoussemDellai/github-actions-course/actions/workflows/031-build-deploy-webapp-to-azure.yml/badge.svg)](https://github.com/HoussemDellai/github-actions-course/actions/workflows/031-build-deploy-webapp-to-azure.yml)
+4.[![031-build-deploy-webapp-to-azure](https://github.com/HoussemDellai/github-actions-course/actions/workflows/031-build-deploy-webapp-to-azure.yml/badge.svg)](https://github.com/HoussemDellai/github-actions-course/actions/workflows/031-build-deploy-webapp-to-azure.yml)
 
-[![040-github-linter](https://github.com/HoussemDellai/github-actions-course/actions/workflows/040-github-linter.yml/badge.svg)](https://github.com/HoussemDellai/github-actions-course/actions/workflows/040-github-linter.yml)
+5.[![040-github-linter](https://github.com/HoussemDellai/github-actions-course/actions/workflows/040-github-linter.yml/badge.svg)](https://github.com/HoussemDellai/github-actions-course/actions/workflows/040-github-linter.yml)
 
-[![050-docker-build-workflow](https://github.com/HoussemDellai/github-actions-course/actions/workflows/050-docker-build-workflow.yml/badge.svg)](https://github.com/HoussemDellai/github-actions-course/actions/workflows/050-docker-build-workflow.yml)
+6.[![050-docker-build-workflow](https://github.com/HoussemDellai/github-actions-course/actions/workflows/050-docker-build-workflow.yml/badge.svg)](https://github.com/HoussemDellai/github-actions-course/actions/workflows/050-docker-build-workflow.yml)
 
-[![052-docker-ghcr-workflow](https://github.com/HoussemDellai/github-actions-course/actions/workflows/052-docker-ghcr-workflow.yml/badge.svg)](https://github.com/HoussemDellai/github-actions-course/actions/workflows/052-docker-ghcr-workflow.yml)
+7.[![052-docker-ghcr-workflow](https://github.com/HoussemDellai/github-actions-course/actions/workflows/052-docker-ghcr-workflow.yml/badge.svg)](https://github.com/HoussemDellai/github-actions-course/actions/workflows/052-docker-ghcr-workflow.yml)
